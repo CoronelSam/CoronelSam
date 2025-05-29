@@ -17,7 +17,7 @@
 ### 🛠️ Tecnologías que he usado
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,js,java,cpp,git" />
 </p>
 
 ---
