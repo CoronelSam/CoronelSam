@@ -33,8 +33,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoronelSam&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoronelSam&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoronelSam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoronelSam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,4 +49,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CoronelSam&label=Profile%20views&color=blue&style=flat" alt="Sam" />
 </p>
-
