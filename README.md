@@ -33,8 +33,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoronelSam&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoronelSam&layout=compact&theme=dracula" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 🌐 Enlaces
 
 <!-- Agrega tu LinkedIn si lo tienes -->
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:tu.email@correo.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:samueldiaz504hn@gmail.com)
 
 ---
 
