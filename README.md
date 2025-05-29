@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋🏻, soy Sam</h1>
-<h3 align="center">Estudiante de Ingeniería en Informática apasionado por el desarrollo móvil y el aprendizaje continuo</h3>
+<h3 align="center">Estudiante de Ingeniería en Informática apasionado por el desarrollo backend y el aprendizaje continuo</h3>
 
 ---
 
