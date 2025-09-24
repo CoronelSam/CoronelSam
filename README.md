@@ -6,27 +6,25 @@
 ### 🙋🏻‍♂️ Sobre mí
 
 - 🎓 Actualmente estudio **Ingeniería en Informática**
-- 🌱 Estoy aprendiendo **Flutter con Dart** para crear aplicaciones móviles multiplataforma
 - 💻 Me interesa el desarrollo **backend**, aunque también estoy explorando otras áreas de la programación
 - 🧩 He trabajado en algunos proyectos universitarios, lo que me ha ayudado a fortalecer mis bases como desarrollador
 - 🚀 Estoy motivado por seguir mejorando mis habilidades y contribuir a proyectos reales en el futuro
-- 📫 Puedes contactarme: **[samueldiaz504hn@gmail.com]**
+- 📫 Puedes contactarme: **[samdhn21@protonmail.com]**
 
 ---
 
 ### 🛠️ Tecnologías que he usado
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,js,java,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,react,js,java,mysql,docker,git" />
 </p>
 
 ---
 
 ### 📚 Actualmente aprendiendo
 
-- 🔸 Flutter
-- 🔸 Dart
-- 🔸 Git y control de versiones
+- 🔸 Java
+- 🔸 Docker
 
 ---
 
