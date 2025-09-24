@@ -40,7 +40,7 @@
 ### 🌐 Enlaces
 
 <!-- Agrega tu LinkedIn si lo tienes -->
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:samueldiaz504hn@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:samdhn21@protonmail.com)
 
 ---
 
